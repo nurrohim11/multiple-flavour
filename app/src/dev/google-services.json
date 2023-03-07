@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916298990262",
+    "project_id": "multiple-flavour-dev-26ccd",
+    "storage_bucket": "multiple-flavour-dev-26ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9162989902622:android:36a084cf9084a5828f5c17",
+        "android_client_info": {
+          "package_name": "com.example.multipleflavour.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916298990262-v4hqrbum4t7acggkj9uq326c6n0cgevvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multipleflavour.dev",
+            "certificate_hash": "018c5d9dcc4f4d06e9184a2cd722ace8862505d1"
+          }
+        },
+        {
+          "client_id": "916298990262-7hg5pma2qhitv7t693vnio3da3muo2cdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CsQWuusg03aAz9sNYz_Io2LttDaGABgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916298990262-7hag5pm2qhitv7t693vnio3da3muo2cdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
